@@ -1,0 +1,9 @@
+urxvt*buffered:true
+urxvt*background:black
+urxvt*foreground:white
+urxvt*scrollBar:false
+urxvt*saveLines:32767
+urxvt*depth:32
+urxvt*background:rgba:0000/0000/0000/cccc
+urxvt*font:xft:Bitstream Vera Sans Mono:pixelsize=11
+urxvt*cursorUnderline:  true
