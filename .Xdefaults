@@ -1,9 +1,12 @@
-urxvt*buffered:true
-urxvt*background:black
-urxvt*foreground:white
-urxvt*scrollBar:false
-urxvt*saveLines:32767
-urxvt*depth:32
-urxvt*background:rgba:0000/0000/0000/cccc
-urxvt*font:xft:Bitstream Vera Sans Mono:pixelsize=11
-urxvt*cursorUnderline:  true
+URxvt*buffered:true
+URxvt*foreground:white
+URxvt*scrollBar:false
+URxvt*saveLines:32767
+URxvt*depth:32
+URxvt*background:rgba:0000/0000/0000/cccc
+URxvt.realBold: True
+URxvt*cursorUnderline:  true
+urxvt*font: xft:Terminus:pixelsize=12:antialias=true:hinting=true
+urxvt*boldFont: xft:Terminus:pixelsize=12:antialias=true:bold:hinting=true
+urxvt*italicFont: xft:Terminus:pixelsize=12:antialias=true:italic:autohint=true:hinting=true
+urxvt*bolditalicFont: xft:Terminus:pixelsize=12:antialias=true:bold:italic:autohint=true:hinting=true
